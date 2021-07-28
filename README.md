@@ -1,0 +1,3 @@
+This project will be a recreation of the home Google Search page. It might not be identical or completely functional but it's supposed to serve as practice for building something with HTML and using what I've learned so far.
+
+More to come...
